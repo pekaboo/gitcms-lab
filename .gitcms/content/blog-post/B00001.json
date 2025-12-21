@@ -1,0 +1,22 @@
+{
+  "id": "B00001",
+  "schemaId": "blog-post",
+  "data": {
+    "title": "B00001",
+    "slug": "B00001",
+    "excerpt": "B00001",
+    "content": "<p>fuck it</p>",
+    "featuredImage": null,
+    "tags": [],
+    "category": "technology",
+    "published": false,
+    "publishedAt": "2025-12-21T17:15",
+    "author": ""
+  },
+  "metadata": {
+    "id": "B00001",
+    "createdAt": "2025-12-21T09:15:27.885Z",
+    "updatedAt": "2025-12-21T09:15:27.885Z",
+    "status": "draft"
+  }
+}

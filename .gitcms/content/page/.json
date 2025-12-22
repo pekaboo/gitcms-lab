@@ -1,0 +1,18 @@
+{
+  "id": "",
+  "schemaId": "page",
+  "data": {
+    "title": "发发发",
+    "slug": "/html/123",
+    "content": "<p>染发的点点滴滴</p>",
+    "excerpt": "",
+    "featuredImage": null,
+    "published": true,
+    "showInNavigation": true
+  },
+  "metadata": {
+    "createdAt": "2025-12-22T22:29:50.426Z",
+    "updatedAt": "2025-12-22T22:29:50.426Z",
+    "status": "draft"
+  }
+}

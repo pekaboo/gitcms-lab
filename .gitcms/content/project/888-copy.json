@@ -1,0 +1,23 @@
+{
+  "id": "888-copy",
+  "schemaId": "project",
+  "data": {
+    "title": "888 (Copy)",
+    "slug": "888",
+    "description": "uunb",
+    "content": "<p>经济界</p>",
+    "featuredImage": null,
+    "gallery": [],
+    "technologies": [],
+    "status": "",
+    "liveUrl": "",
+    "githubUrl": "",
+    "startDate": "2025-12-21",
+    "endDate": "2025-12-28"
+  },
+  "metadata": {
+    "updatedAt": "2025-12-22T22:23:42.168Z",
+    "createdAt": "2025-12-22T22:23:42.168Z",
+    "status": "draft"
+  }
+}

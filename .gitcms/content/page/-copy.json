@@ -1,0 +1,18 @@
+{
+  "id": "-copy",
+  "schemaId": "page",
+  "data": {
+    "title": "发发发 (Copy)",
+    "slug": "/html/123",
+    "content": "<p>染发的点点滴滴</p>",
+    "excerpt": "",
+    "featuredImage": null,
+    "published": true,
+    "showInNavigation": true
+  },
+  "metadata": {
+    "updatedAt": "2026-01-04T07:01:39.235Z",
+    "createdAt": "2026-01-04T07:01:39.235Z",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "metadata": {
+    "name": "2",
+    "version": "1.0.0",
+    "description": "3",
+    "category": "blog",
+    "createdAt": "2026-02-04T06:29:01.301Z",
+    "updatedAt": "2026-02-04T06:29:01.301Z"
+  },
+  "fields": {
+    "field_1770186548922": {
+      "type": "string",
+      "label": "",
+      "required": false
+    }
+  }
+}
